@@ -1,0 +1,13 @@
+.SearchBox form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: fit-content;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.searchButton {
+  padding: 0.5rem 0.75rem 0.5rem 0.75rem !important;
+  border-radius: 1.5rem !important;
+}
